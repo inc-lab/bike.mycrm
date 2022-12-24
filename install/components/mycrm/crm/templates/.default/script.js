@@ -57,7 +57,7 @@ $(document).on('click','.update',function(){
 					  document.location.href='/mycrm/?TABLE='+table;
 					}, 1000);
 				}else{
-					$('.ajaxStatus').html('Ошибка обновления');
+					$('.ajaxStatus').html('Ошибка обновления'); 
 				}			
 			}
 		});

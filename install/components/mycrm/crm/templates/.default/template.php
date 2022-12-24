@@ -12,7 +12,7 @@ Loc::loadLanguageFile(__FILE__);
     </div>
     <div class="col-sm pt-3 pb-3 text-center <?=$arResult['COLOR']['STATUS'];?>">
       <a href="/mycrm/?TABLE=STATUS" class="link-info text-dark">Статусы</a>
-    </div>
+    </div> 
   </div>
 </div>
 <input type="button" class="popapAdd btn btn-primary" data-toggle="modal" data-target="#exampleModal" value="<?=Loc::getMessage('POPAP_ADD_'.$arResult['TABLE']);?>">

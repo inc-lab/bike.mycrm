@@ -35,7 +35,7 @@ class addClass extends CBitrixComponent{
         $this->checkModules();
         $this->arResult=$this->arParams;
 		foreach($this->tables as $table=>$orm){
-			if($table == $this->arResult['TABLE']){ 
+			if($table == $this->arResult['TABLE']){
 				$this->arResult['COLOR'][$table]='bg-success';
 			}
 			else{
