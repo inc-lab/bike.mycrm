@@ -2,7 +2,7 @@
 	<?foreach($arResult['res'] as $item){?>
 	<div class="listUp ">
 		<form action="" class="mt-3 mb-3 pt-2 container border">
-			<div class="row pb-3">
+			<div class="pb-3">
 				<?foreach($item as $key=>$field){?>
 					<?=$field;?>
 				<?}?>
