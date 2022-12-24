@@ -1,0 +1,1 @@
+<div class="col-md-2 col-sm-6"><a href="/mycrm/?id=[[value]]&TABLE=[[table]]" >Редактировать запись [[value]]</a></div>

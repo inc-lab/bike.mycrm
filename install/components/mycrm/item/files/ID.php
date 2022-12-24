@@ -1,0 +1,1 @@
+<div class="col-sm"> запись [[value]] <hr class="hr"><input type="hidden" name="[[key]]" class="isdinput" value="[[value]]"></div>

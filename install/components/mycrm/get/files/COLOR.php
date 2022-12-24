@@ -1,0 +1,1 @@
+<div class="col-md-3 col-sm-6">[[name]]: <div class="ml-2 d-inline text-white w-50 h-25 d-inline-block" style="background:[[value]]"></div></div>
